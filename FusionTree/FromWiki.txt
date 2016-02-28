@@ -1,0 +1,3 @@
+In computer science, a fusion tree is a type of tree data structure that implements an associative array on w-bit integers. When operating on a collection of n key–value pairs, it uses O(n) space and performs searches in O(logw n) time, which is asymptotically faster than a traditional self-balancing binary search tree, and also better than the van Emde Boas tree for large values of w. It achieves this speed by exploiting certain constant-time operations that can be done on a machine word. Fusion trees were invented in 1990 by Michael Fredman and Dan Willard.[1]
+
+Ref - https://en.wikipedia.org/wiki/Fusion_tree
